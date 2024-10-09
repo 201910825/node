@@ -1,0 +1,20 @@
+{
+  "name": "201910825",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon cloud.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/201910825/node.git"
+  },
+  "author": "leejimin",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.0",
+    "mongodb": "^5.9.2"
+  }
+}
